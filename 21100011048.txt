@@ -1,0 +1,40 @@
+ad_soyad:ali kereste
+para:5600
+hesap_no:1
+kredi_karti:1219
+elektrik:189
+su:267
+dogalgaz:344
+
+ad_soyad:ahmet kul
+para:8700
+hesap_no:2
+kredi_karti:0
+elektrik:128
+su:124
+dogalgaz:300
+
+ad_soyad:mumtaz akif
+para:9300
+hesap_no:3
+kredi_karti:5156
+elektrik:287
+su:103
+dogalgaz:321
+
+ad_soyad:Hulusi Kodaman
+para:156000
+hesap_no:4
+kredi_karti:7563
+elektrik:875
+su:490
+dogalgaz:1000
+
+ad_soyad:behcet ozon
+para:54000
+hesap_no:5
+kredi_karti:8543
+elektrik:531
+su:671
+dogalgaz:420
+
